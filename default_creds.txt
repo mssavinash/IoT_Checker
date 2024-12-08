@@ -1,0 +1,4 @@
+ssh,root,admin
+telnet,admin,1234
+http,admin,admin
+http,admin,password
